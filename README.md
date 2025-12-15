@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Illia! 👋
 
-<!--
-**eliastikus/eliastikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Builder of ideas | Poland 🇵🇱
 
-Here are some ideas to get you started:
+I turn random sparks of imagination into real, working products. If I can think it, I can build it — and I always try to **ship fast**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I Do
+
+- Craft **web apps** with React & TypeScript  
+- Develop **Python scripts & automation tools**  
+- Build websites and blogs with **WordPress**  
+
+---
+
+## ⚡ Fun Facts
+
+- 🐱 Proud parent of **mischievous cat**  
+- ☕ **Caffeine dependent**  
+- ⚔️ Big fan of **Naruto**  
+
+---
+
+## 🎯 My Hobbies
+
+- Anime binge sessions  
+- Concentrating on **LEGO builds**  
+- Building **digital stuff**  
