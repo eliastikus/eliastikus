@@ -2,7 +2,7 @@
 
 Web Developer | Builder of ideas | Poland 🇵🇱
 
-I turn random sparks of imagination into real, working products. If I can think it, I can build it — and I always try to **ship fast**.  
+I turn random sparks of imagination into real, working products. If I can think it, I can build it
 
 ---
 
