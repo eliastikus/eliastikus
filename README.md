@@ -10,15 +10,17 @@ I turn random sparks of imagination into real, working products. If I can think 
 
 - Craft **web apps** with React & TypeScript  
 - Develop **Python scripts & automation tools**  
-- Build websites and blogs with **WordPress**  
+- Build websites and blogs with **WordPress**
+- Configure and operate **Linux Servers**
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🐱 Proud parent of **mischievous cat**  
-- ☕ **Caffeine dependent**  
-- ⚔️ Big fan of **Naruto**  
+-  Proud parent of **mischievous cat**  
+-  **Caffeine dependent**  
+-  Big fan of **Naruto**
+-  Into **heavy metal & indie rock**
 
 ---
 
@@ -26,4 +28,5 @@ I turn random sparks of imagination into real, working products. If I can think 
 
 - Anime binge sessions  
 - Concentrating on **LEGO builds**  
-- Building **digital stuff**  
+- Building **digital stuff**
+- Playing guitar
